@@ -5,6 +5,8 @@ Your AI-powered Mental Wellness Companion – built with Streamlit, powered by G
 ---
 
 **Features**
+
+
 Elegant Background UI: A calming background with a dark overlay to keep the focus on content.
 
 AI Chat Support: Ask anything about stress, anxiety, or your emotional wellness. Get real-time advice from an AI trained on LLaMA3.
@@ -30,17 +32,16 @@ Persistent Chat History: Maintains conversational flow using Streamlit’s sessi
 
 **Setup Instructions**
 
-``git clone https://github.com/diksharaj2005/lumacare.git
+```git clone https://github.com/diksharaj2005/lumacare.git```
 
 ---
-cd lumacare```
+```cd lumacare```
 
 
 ---
-``
+
 
 
 ▶ Run the App
-```
-streamlit run app.py```
-````
+
+```streamlit run app.py```
