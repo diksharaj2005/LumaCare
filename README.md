@@ -31,10 +31,11 @@ Persistent Chat History: Maintains conversational flow using Streamlit’s sessi
 **Setup Instructions**
 
 ``git clone https://github.com/diksharaj2005/lumacare.git
+
+---
 cd lumacare```
 
 
----
 ---
 ``
 
