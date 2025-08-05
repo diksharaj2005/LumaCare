@@ -44,4 +44,4 @@ Persistent Chat History: Maintains conversational flow using Streamlit’s sessi
 
 ▶ Run the App
 
-```streamlit run app.py```
+```streamlit run mental_support.py```
